@@ -23,8 +23,8 @@ public class Person {
     @Override
     public String toString() {
         return new StringBuilder()
-                .append("My first name is " + firstName)
-                .append("My last name is " + lastName)
+                .append("\nMy first name is " + firstName)
+                .append("\nMy last name is " + lastName)
                 .toString();
     }
 }

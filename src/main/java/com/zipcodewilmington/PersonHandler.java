@@ -57,4 +57,9 @@ public class PersonHandler {
 
         return result;
     }
+
+
+    public Person[] getPersonArray() {
+        return personArray;
+    }
 }
