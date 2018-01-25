@@ -6,7 +6,7 @@ package com.zipcodewilmington;
 public class PersonHandler {
     private final Person[] personArray;
 
-    public PersonHandler(Person... personArray) {
+    public PersonHandler(Person[] personArray) {
         this.personArray = personArray;
     }
 
