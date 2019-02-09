@@ -12,7 +12,7 @@ public class PersonHandler {
 
     public String whileLoop() {
         String result = "";
-        // assume there is a `counter`
+        // create a `counter`
         // while `counter` is less than length of array
             // begin loop
 
